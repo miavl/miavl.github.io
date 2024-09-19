@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miavl.github.io/KKQ/sitemap.KKQ.gz
